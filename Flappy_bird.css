@@ -1,0 +1,11 @@
+body {
+    font-family: 'Pacifico';
+    display: flex;
+    justify-content: center;
+    background-image: url('https://wallpapercave.com/wp/wp2749145.jpg');
+  }
+  
+  canvas {
+    border: 1x solid #0a3cda;
+    margin: 10px;
+  }
